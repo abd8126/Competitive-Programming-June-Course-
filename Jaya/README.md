@@ -3,9 +3,9 @@
 
 <a href="https://www.leetcode.com/2907jr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="2907jr" height="30" width="40" /></a> https://leetcode.com/2907jr/
 
-College :PES University,Bangalore
+College : PES University,Bangalore
 
-Year : Fourth 
+Year : 4th
 
 Target Company : Any good company with SDE profile.
 
