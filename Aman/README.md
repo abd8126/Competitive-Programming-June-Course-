@@ -6,6 +6,6 @@ Leetcode:  https://leetcode.com/Aman__Kumar/
 
 GFG:  https://auth.geeksforgeeks.org/user/aman__kumar/practice/
 
-Targated Companies: Amazon, Atlassian, Qualcomm, Zomato, Intuit, InMobi, Tower Research Capital and many more.
+Targated Companies: Amazon, Microsoft, Atlassian, Qualcomm, Uber, Intuit, InMobi, and many more.
 
 
