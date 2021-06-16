@@ -1,6 +1,6 @@
 Hello everyone, This is Tanweer.
 </br>
-LEETCODE PROFILE LINK - https://leetcode.com/tanweerulHaque/
+LEETCODE PROFILE LINK - https://leetcode.com/TanweerulHaque/
 </br>
 College : BIRLA INSTITUTE OF TECHNOLOGY, MESRA4
 </br>
