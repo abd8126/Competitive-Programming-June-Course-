@@ -4,7 +4,7 @@ Hi Everyone, This is Aman here
 
 leetcode:  https://leetcode.com/Aman__Kumar/
 
-GFG:  https://auth.geeksforgeeks.org/user/aman__kumar/profile
+GFG:  https://auth.geeksforgeeks.org/user/aman__kumar/practice/
 
 targated companies: Amazon, Atlassian, Qualcomm, Zomato, Intuit, InMobi and many more.
 
