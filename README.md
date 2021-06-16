@@ -6,12 +6,18 @@ Target Companies: Google, Amazon, Microsoft, Flipkart, Facebook, Walmart
 After complete this course I will select top 3 students and give some goodies or prize.
 
 Thanks & Regards,
-Aniruddha M Agrawal,
-Software Developer at Pitney Bowes,
+Aniruddha M Agrawal
+
+Software Developer at Pitney Bowes
+
 Founder of HAPPY CODING FAMILY
 
 M: 9520401457
+
 E: happy.coding.family@gmail.com
+
 LinkedIn Profile:- https://www.linkedin.com/in/aniruddha-m-agrawal/
+
 LeetCode Profile:- https://leetcode.com/anii_agrawal/ (3 star)
+
 YouTube Channel Link: https://www.youtube.com/channel/UCEhbYWFqKPGBzeYXFHHwLNA
