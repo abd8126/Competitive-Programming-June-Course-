@@ -6,5 +6,5 @@ College : BIRLA INSTITUTE OF TECHNOLOGY, MESRA4
 </br>
 YEAR : 4th
 </br>
-TARGET COMPANY : To be Decided
+TARGET COMPANY : Companies with ML/AI roles
 </br>
