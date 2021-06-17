@@ -4,7 +4,7 @@ My Leetcode Profile: https://leetcode.com/adarshprasad0708/
 
 College: Kiit University,Bhubaneshwar
 
-Year: 3rd year
+Year: 4th year
 
 Target Company: i) Oncampus:Any SDE company
                 ii) Offcampus: Microsoft,Google,Amazon
